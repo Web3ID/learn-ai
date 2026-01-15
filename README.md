@@ -49,6 +49,7 @@ Learning AI today is not just about understanding machine learning models. It is
 4. [Medo.dev](https://medo.dev)
 5. [Sanbox.dev](https://sandbox.dev)
 6. [AI studio Google](https://aistudio.google.com)
+7. [base44](https://base44.com)
 
 ## AI Tools For Creator 
 1. [MagicBox](https://magickbox.ai)
