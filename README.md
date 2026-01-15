@@ -53,6 +53,7 @@ Learning AI today is not just about understanding machine learning models. It is
 ## AI Tools For Creator 
 1. [MagicBox](https://magickbox.ai)
 2. [Meta.ai](https://www.meta.ai)
+3. [Sjinn](https://sjinn.ai)
 
 
 ## AI Blockchain Ecosystem 
