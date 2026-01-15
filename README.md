@@ -25,4 +25,16 @@ Learning AI today is not just about understanding machine learning models. It is
 9. [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 10. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
+## Vibe Coding
+1. [GitHub Copilot](https://github.com/features/copilot)
+2. [Cursor](https://cursor.sh/)
+3. [Replit](https://replit.com/)
+4. [Codeium](https://codeium.com/)
+5. [Tabnine](https://www.tabnine.com/)
+6. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+7. [Sourcegraph Cody](https://sourcegraph.com/cody)
+8. [Continue](https://continue.dev/)
+9. [Phind](https://www.phind.com/)
+10. [Windsurf](https://codeium.com/windsurf)
+
 
