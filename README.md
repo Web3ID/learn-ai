@@ -44,7 +44,7 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## Vibe Coding Chat Agent 
 1. [Cursor](https://cursor.com/agents)
-2. [Jules Google](https://jules.google.com]
+2. [Jules Google](https://jules.google.com)
 3. [Replit](https://replit.com)
 4. [Medo.dev](https://medo.dev)
 5. [Sanbox.dev](https://sandbox.dev)
@@ -56,4 +56,4 @@ Learning AI today is not just about understanding machine learning models. It is
 
 
 ## AI Blockchain Ecosystem 
-1. Santient](https://chat.sentient.xyz)
+1. [Santient](https://chat.sentient.xyz)
