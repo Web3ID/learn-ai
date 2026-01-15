@@ -57,6 +57,8 @@ Learning AI today is not just about understanding machine learning models. It is
 3. [Sjinn](https://sjinn.ai)
 4. [Digen.ai](https://digen.ai)
 5. [Dreamina by Capcut](https://dreamina.capcut.com)
+6. [Sora](https://sora.chatgpt.com)
+7. [grok](https://grok.com)
 
 
 ## AI Blockchain Ecosystem 
