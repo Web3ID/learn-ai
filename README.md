@@ -5,7 +5,7 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## Learning Resources
 1. [Learn Microsoft](https://learn.microsoft.com/id-id/ai/?tabs=business-technical-leader)
-2. 
+2. [Bisa.ai](https://bisa.ai) Indonesia
 
 ## Tools (Chat Platform)
 1. [ChatGPT](https://chatgpt.com/)
