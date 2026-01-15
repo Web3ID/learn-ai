@@ -6,6 +6,7 @@ Learning AI today is not just about understanding machine learning models. It is
 ## Learning Resources
 1. [Learn Microsoft](https://learn.microsoft.com/id-id/ai/?tabs=business-technical-leader)
 2. [Bisa.ai](https://bisa.ai) Indonesia
+3. [Anthropic](https://anthropic.skilljar.com/claude-code-in-action/303235)
 
 ## Tools (Chat Platform)
 1. [ChatGPT](https://chatgpt.com/)
@@ -37,4 +38,22 @@ Learning AI today is not just about understanding machine learning models. It is
 9. [Phind](https://www.phind.com/)
 10. [Windsurf](https://codeium.com/windsurf)
 
+## IDE 
+1. [Antigravity](https://antigravity.google)
 
+
+## Vibe Coding Chat Agent 
+1. [Cursor](https://cursor.com/agents)
+2. [Jules Google](https://jules.google.com]
+3. [Replit](https://replit.com)
+4. [Medo.dev](https://medo.dev)
+5. [Sanbox.dev](https://sandbox.dev)
+6. [AI studio Google](https://aistudio.google.com)
+
+## AI Tools For Creator 
+1. [MagicBox](https://magickbox.ai)
+2. [Meta.ai](https://www.meta.ai)
+
+
+## AI Blockchain Ecosystem 
+1. Santient](https://chat.sentient.xyz)
