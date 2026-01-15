@@ -55,6 +55,8 @@ Learning AI today is not just about understanding machine learning models. It is
 1. [MagicBox](https://magickbox.ai)
 2. [Meta.ai](https://www.meta.ai)
 3. [Sjinn](https://sjinn.ai)
+4. [Digen.ai](https://digen.ai)
+5. [Dreamina by Capcut](https://dreamina.capcut.com)
 
 
 ## AI Blockchain Ecosystem 
