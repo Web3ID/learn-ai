@@ -51,6 +51,12 @@ Learning AI today is not just about understanding machine learning models. It is
 6. [AI studio Google](https://aistudio.google.com)
 7. [base44](https://base44.com)
 
+## Agent Skill
+1. [Github Copilot](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills?utm_source=docs&utm_medium=&utm_campaign=skills-25)
+2. [Agent Skills - standard](https://agentskills.io)
+3. [Claude](https://github.com/anthropics/skills)
+4. [Vercel](https://github.com/vercel-labs/agent-skills)
+
 ## AI Tools For Creator 
 1. [MagicBox](https://magickbox.ai)
 2. [Meta.ai](https://www.meta.ai)
