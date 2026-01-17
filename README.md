@@ -38,6 +38,7 @@ Learning AI today is not just about understanding machine learning models. It is
 9. [Phind](https://www.phind.com/)
 10. [Windsurf](https://codeium.com/windsurf)
 11. [Augment Code](https://www.augmentcode.com)
+12. [Openhands](https://openhands.dev)
 
 ## IDE 
 1. [Antigravity](https://antigravity.google)
