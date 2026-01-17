@@ -54,6 +54,7 @@ Learning AI today is not just about understanding machine learning models. It is
 6. [AI studio Google](https://aistudio.google.com)
 7. [base44](https://base44.com)
 8. [bolt](https://bolt.new)
+9. [v0](https://v0.app)
 
 ## Agent Skill
 1. [Github Copilot](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills?utm_source=docs&utm_medium=&utm_campaign=skills-25)
