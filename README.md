@@ -39,6 +39,7 @@ Learning AI today is not just about understanding machine learning models. It is
 10. [Windsurf](https://codeium.com/windsurf)
 11. [Augment Code](https://www.augmentcode.com)
 12. [Openhands](https://openhands.dev)
+13. [Lovable](https://lovable.dev)
 
 ## IDE 
 1. [Antigravity](https://antigravity.google)
@@ -52,6 +53,7 @@ Learning AI today is not just about understanding machine learning models. It is
 5. [Sanbox.dev](https://sandbox.dev)
 6. [AI studio Google](https://aistudio.google.com)
 7. [base44](https://base44.com)
+8. [bolt](https://bolt.new)
 
 ## Agent Skill
 1. [Github Copilot](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills?utm_source=docs&utm_medium=&utm_campaign=skills-25)
