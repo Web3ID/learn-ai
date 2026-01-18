@@ -78,3 +78,14 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## Web Browser AI
 1. [Comet by perplexity](https://www.perplexity.ai/comet)
+
+## Sanbox AI / Infrastructure
+1. [Modal](https://modal.com)
+2. [Blaxel](https://blaxel.ai)
+3. [Daytona](https://www.daytona.io)
+4. [E2B](https://e2b.dev)
+5. [Together](https://www.together.ai/code-sandbox)
+
+
+
+
