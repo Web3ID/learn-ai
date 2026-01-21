@@ -62,6 +62,9 @@ Learning AI today is not just about understanding machine learning models. It is
 3. [Claude](https://github.com/anthropics/skills)
 4. [Vercel](https://github.com/vercel-labs/agent-skills)
 
+## AI in Terminal
+1. [Skillshare](https://github.com/runkids/skillshare)
+
 ## AI Tools For Creator 
 1. [MagicBox](https://magickbox.ai)
 2. [Meta.ai](https://www.meta.ai)
