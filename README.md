@@ -43,6 +43,7 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## IDE 
 1. [Antigravity](https://antigravity.google)
+2. [cursor](https://cursor.com/download)
 
 
 ## Vibe Coding Chat Agent 
