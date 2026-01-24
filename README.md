@@ -81,6 +81,7 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## AI Blockchain Ecosystem 
 1. [Santient](https://chat.sentient.xyz)
+2. [Vibe coding with Neynar](https://neynar.com/studio)
 
 ## Web Browser AI
 1. [Comet by perplexity](https://www.perplexity.ai/comet)
