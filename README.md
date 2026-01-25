@@ -41,6 +41,7 @@ Learning AI today is not just about understanding machine learning models. It is
 11. [Augment Code](https://www.augmentcode.com)
 12. [Openhands](https://openhands.dev)
 13. [Lovable](https://lovable.dev)
+14. [Dazl](https://dazl.dev)
 
 ## IDE 
 1. [Antigravity](https://antigravity.google)
