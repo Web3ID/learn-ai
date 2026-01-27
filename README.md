@@ -95,6 +95,7 @@ Learning AI today is not just about understanding machine learning models. It is
 4. [E2B](https://e2b.dev)
 5. [Together](https://www.together.ai/code-sandbox)
 
-
+## Agent Skill AI
+1. [List 2k+ skill Claude](https://agent-skills.cc/claude-skills)
 
 
