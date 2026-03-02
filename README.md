@@ -7,6 +7,13 @@ Learning AI today is not just about understanding machine learning models. It is
 1. [Learn Microsoft](https://learn.microsoft.com/id-id/ai/?tabs=business-technical-leader)
 2. [Bisa.ai](https://bisa.ai) Indonesia
 3. [Anthropic](https://anthropic.skilljar.com/claude-code-in-action/303235)
+4. [Academy OpenAI](https://academy.openai.com/)
+5. [Google](https://grow.google/ai/)
+6. [DeepLearning.AI](https://www.deeplearning.ai/)
+7. [Meta](https://ai.meta.com/resources/)
+8. [Skills Builder by AWS](https://skillbuilder.aws/category/domain/generative-ai)
+9. [SkillBuild by IBM](https://skillsbuild.org/)
+10. [Hugging Face](https://huggingface.co/learn)
 
 ## Tools (Chat Platform)
 1. [ChatGPT](https://chatgpt.com/)
