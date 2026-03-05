@@ -91,6 +91,7 @@ Learning AI today is not just about understanding machine learning models. It is
 1. [Santient](https://chat.sentient.xyz)
 2. [Vibe coding with Neynar](https://neynar.com/studio)
 3. [Vibe Coding with Noah x Sol](https://trynoah.ai)
+4. [Anuma by ZetaChain](https://chat.anuma.ai)
 
 ## Web Browser AI
 1. [Comet by perplexity](https://www.perplexity.ai/comet)
