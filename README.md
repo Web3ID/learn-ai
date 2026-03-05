@@ -76,7 +76,7 @@ Learning AI today is not just about understanding machine learning models. It is
 ## AI in Terminal
 1. [Skillshare](https://github.com/runkids/skillshare)
 
-## AI Tools For Creator 
+## AI Tools For Creator / Productivity 
 1. [MagicBox](https://magickbox.ai)
 2. [Meta.ai](https://www.meta.ai)
 3. [Sjinn](https://sjinn.ai)
@@ -85,6 +85,7 @@ Learning AI today is not just about understanding machine learning models. It is
 6. [Sora](https://sora.chatgpt.com)
 7. [grok](https://grok.com)
 8. [Higgsfield](https://higgsfield.ai)
+9. [Manus](https://manus.im)
 
 
 ## AI Blockchain Ecosystem 
