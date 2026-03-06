@@ -22,6 +22,11 @@ Learning AI today is not just about understanding machine learning models. It is
 4. [Z.AI](https://chat.z.ai/)
 5. [Qwen](https://chat.qwen.ai)
 
+## Learn how to Promt and interact 
+1. [Learn Prompting](https://learnprompting.org/)
+2. [Promt engineer by claude](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+3. [Promt engineer by openai](https://developers.openai.com/api/docs/guides/prompt-engineering)
+
 ## Awesome Repositori to Learn AI
 1. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 2. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
