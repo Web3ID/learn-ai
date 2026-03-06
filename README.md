@@ -20,6 +20,7 @@ Learning AI today is not just about understanding machine learning models. It is
 2. [Gemini](https://gemini.google.com)
 3. [Claude](https://claude.ai/)
 4. [Z.AI](https://chat.z.ai/)
+5. [Qwen](https://chat.qwen.ai)
 
 ## Awesome Repositori to Learn AI
 1. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
