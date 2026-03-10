@@ -102,6 +102,7 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## Web Browser AI
 1. [Comet by perplexity](https://www.perplexity.ai/comet)
+2. [Browser Use](https://github.com/browser-use/browser-use)
 
 ## Sanbox AI / Infrastructure
 1. [Modal](https://modal.com)
