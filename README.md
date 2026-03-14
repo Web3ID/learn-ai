@@ -78,6 +78,7 @@ Learning AI today is not just about understanding machine learning models. It is
 2. [Agent Skills - standard](https://agentskills.io)
 3. [Claude](https://github.com/anthropics/skills)
 4. [Vercel](https://github.com/vercel-labs/agent-skills)
+5. [Azure](aka.ms/azure-skills)
 
 ## AI in Terminal
 1. [Skillshare](https://github.com/runkids/skillshare)
