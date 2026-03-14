@@ -115,4 +115,7 @@ Learning AI today is not just about understanding machine learning models. It is
 ## Agent Skill AI
 1. [List 2k+ skill Claude](https://agent-skills.cc/claude-skills)
 
+## AI Low-Code builder
+1. [UI Bakery](https://uibakery.io)
+
 
