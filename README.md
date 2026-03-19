@@ -39,6 +39,7 @@ Learning AI today is not just about understanding machine learning models. It is
 9. [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
 10. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 11. [Build Machine Learning with Python](https://www.gradio.app/)
+12. [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 
 ## Vibe Coding
 1. [GitHub Copilot](https://github.com/features/copilot)
