@@ -127,3 +127,14 @@ Learning AI today is not just about understanding machine learning models. It is
 2. [Azure Boards x Copilot](https://gh.io/cca-azure-boards-docs)
 3. [Linear x Copilot](https://gh.io/cca-linear-docs)
 4. [Kiro](https://kiro.dev)
+
+
+## AI Searching Engine (API)
+1. [Brave Search](https://brave.com/search/api)
+2. [Tavily](https://app.tavily.com)
+3. [Exa](https://exa.ai)
+4. [Fireclaw](https://www.firecrawl.dev/)
+
+
+
+
