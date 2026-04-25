@@ -136,6 +136,8 @@ Learning AI today is not just about understanding machine learning models. It is
 3. [Exa](https://exa.ai)
 4. [Fireclaw](https://www.firecrawl.dev/)
 
-
-
+## AI Agentic / CLI
+1. [Agent CLI by Google](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli)
+2. [OpenHands CLI](https://openhands.dev/product/cli)
+3. [Opencode](https://opencode.ai/)
 
