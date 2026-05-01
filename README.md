@@ -56,6 +56,7 @@ Learning AI today is not just about understanding machine learning models. It is
 12. [Openhands](https://openhands.dev)
 13. [Lovable](https://lovable.dev)
 14. [Dazl](https://dazl.dev)
+15. [Hercules](https://hercules.app)
 
 ## IDE 
 1. [Antigravity](https://antigravity.google)
