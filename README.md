@@ -146,5 +146,8 @@ Learning AI today is not just about understanding machine learning models. It is
 
 ## How To Build AI
 1. [Build Multi-Agent AI Apps with Microsoft Agent Framework 1.0](https://techcommunity.microsoft.com/blog/appsonazureblog/build-multi-agent-ai-apps-on-azure-app-service-with-microsoft-agent-framework-1-/4510017)
+2. [Build Multi Agent with Evonic](https://evonic.dev/)
+
+
 
 
