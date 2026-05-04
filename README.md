@@ -142,6 +142,7 @@ Learning AI today is not just about understanding machine learning models. It is
 1. [Agent CLI by Google](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli)
 2. [OpenHands CLI](https://openhands.dev/product/cli)
 3. [Opencode](https://opencode.ai/)
+4. [AI CLI by Vercel](https://ai-cli.dev/)
 
 
 ## How To Build AI
