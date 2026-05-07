@@ -14,6 +14,7 @@ Learning AI today is not just about understanding machine learning models. It is
 8. [Skills Builder by AWS](https://skillbuilder.aws/category/domain/generative-ai)
 9. [SkillBuild by IBM](https://skillsbuild.org/)
 10. [Hugging Face](https://huggingface.co/learn)
+11. [Learn AI for Web.dev](https://web.dev/learn/ai/)
 
 ## Tools (Chat Platform)
 1. [ChatGPT](https://chatgpt.com/)
