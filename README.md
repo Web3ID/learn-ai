@@ -131,6 +131,7 @@ Learning AI today is not just about understanding machine learning models. It is
 3. [Linear x Copilot](https://gh.io/cca-linear-docs)
 4. [Kiro](https://kiro.dev)
 5. [OpenHands](https://openhands.dev)
+6. [Pi.dev](https://pi.dev/)
 
 
 ## AI Searching Engine (API)
